@@ -1,0 +1,14 @@
+[
+	{
+		"name": "TBA",
+		"deadline": "",
+		"image": "images/nn2.png",
+		"image_desc": "An example of a neural network.",
+		"desc": "TBA",
+		"documents": [
+			{"name": "First assignment description",
+			"link": "https://",
+			"type": "pdf"}
+		]
+	}
+]

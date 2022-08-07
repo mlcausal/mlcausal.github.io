@@ -1,0 +1,354 @@
+[
+	{
+		"type": "lecture",
+		"name": "Introduction to Causality in Machine Learning",
+		"date": "August 24, 2022 | 14:55-16.35 | Lecture",
+		"desc": "This lecture introduces the structure of the Causality in Machine Learning course, and gives a short overview of the history and motivation of Causal Inference with focus on Machine Learning.",
+		"documents": [
+
+			{"name": "TBA",
+				"link": "https://",
+				"type": "pdf"}
+
+		],
+		"recordings": [
+		]
+	},
+
+	{
+		"type": "tutorial",
+		"name": "Introduction to machine learning toolkits",
+		"date": "August 24, 2022 | 14:55-16.35 | Tutorial",
+		"desc": "This tutorial introduces the main machine learning toolkits used in this course.",
+		"documents": [
+			{"name": "TBA",
+			 "link": "https://youtu.be/",
+			 "type": "video"},
+			{"name": "PyTorch tutorial notebook",
+			 "link": "https://en/latest/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.html",
+			 "type": "notebook"}
+		]
+	},
+
+	{
+		"type": "lecture",
+		"name": "Course logistics",
+		"date": "August 24, 2022 | 14:55-16.35 | Lecture",
+		"desc": "This lecture introduces the .",
+		"documents": [
+		],
+		"recordings": [
+		]
+	},
+
+	{
+		"type": "lecture",
+		"name": "Potential outcomes (1/2)",
+		"date": "August 29, 2022 | 14:55-16.35 | Lecture",
+		"desc": "This lecture introduces the .",
+		"documents": [
+		],
+		"recordings": [
+		]
+	},
+
+	{
+		"type": "lecture",
+		"name": "Potential outcomes (2/2)",
+		"date": "August 31, 2022 | 14:55-16.35 | Lecture",
+		"desc": "This lecture introduces the .",
+		"documents": [
+		],
+		"recordings": [
+		]
+	},
+
+
+	{
+		"type": "lecture",
+		"name": "The ladder of causation (1/2)",
+		"date": "September 09, 2022 | 14:55-16.35 | Lecture",
+		"desc": "This lecture introduces the .",
+		"documents": [
+		],
+		"recordings": [
+		]
+	},
+
+	{
+		"type": "lecture",
+		"name": "The ladder of causation (2/2)",
+		"date": "September 12, 2022 | 14:55-16.35 | Lecture",
+		"desc": "This lecture introduces the .",
+		"documents": [
+		],
+		"recordings": [
+		]
+	},
+
+	{
+		"type": "lecture",
+		"name": "Machine learning: Paradigms",
+		"date": "September 14, 2022 | 14:55-16.35 | Lecture",
+		"desc": "This lecture introduces the .",
+		"documents": [
+		],
+		"recordings": [
+		]
+	},
+
+	{
+		"type": "lecture",
+		"name": "Machine learning: Tasks",
+		"date": "September 19, 2022 | 14:55-16.35 | Lecture",
+		"desc": "This lecture introduces the .",
+		"documents": [
+		],
+		"recordings": [
+		]
+	},
+
+	{
+		"type": "lecture",
+		"name": "Causal modelling as generative machine learning",
+		"date": "September 21, 2022 | 14:55-16.35 | Lecture",
+		"desc": "This lecture introduces the .",
+		"documents": [
+		],
+		"recordings": [
+		]
+	},
+
+	{
+		"type": "lecture",
+		"name": "Test I",
+		"date": "September 26, 2022 | 14:55-16.35 | Lecture",
+		"desc": "This lecture introduces the .",
+		"documents": [
+		],
+		"recordings": [
+		]
+	},
+
+	{
+		"type": "lecture",
+		"name": "Bayesian inference (1/2)",
+		"date": "September 28, 2022 | 14:55-16.35 | Lecture",
+		"desc": "This lecture introduces the .",
+		"documents": [
+		],
+		"recordings": [
+		]
+	},
+
+	{
+		"type": "lecture",
+		"name": "Bayesian inference (2/2)",
+		"date": "October 03, 2022 | 14:55-16.35 | Lecture",
+		"desc": "This lecture introduces the .",
+		"documents": [
+		],
+		"recordings": [
+		]
+	},
+
+	{
+		"type": "lecture",
+		"name": "Linear models and causal inference (1/2)",
+		"date": "October 05, 2022 | 14:55-16.35 | Lecture",
+		"desc": "This lecture introduces the .",
+		"documents": [
+		],
+		"recordings": [
+		]
+	},
+
+	{
+		"type": "lecture",
+		"name": "Linear models and causal inference (2/2)",
+		"date": "October 10, 2022 | 14:55-16.35 | Lecture",
+		"desc": "This lecture introduces the .",
+		"documents": [
+		],
+		"recordings": [
+		]
+	},
+
+	{
+		"type": "lecture",
+		"name": "Causes, confounds and colliders (1/2)",
+		"date": "October 17, 2022 | 14:55-16.35 | Lecture",
+		"desc": "This lecture introduces the .",
+		"documents": [
+		],
+		"recordings": [
+		]
+	},
+
+	{
+		"type": "lecture",
+		"name": "Causes, confounds and colliders (2/2)",
+		"date": "October 19, 2022 | 14:55-16.35 | Lecture",
+		"desc": "This lecture introduces the .",
+		"documents": [
+		],
+		"recordings": [
+		]
+	},
+
+	{
+		"type": "lecture",
+		"name": "Overfitting and interactions (1/2)",
+		"date": "October 24, 2022 | 14:55-16.35 | Lecture",
+		"desc": "This lecture introduces the .",
+		"documents": [
+		],
+		"recordings": [
+		]
+	},
+
+	{
+		"type": "lecture",
+		"name": "Overfitting and interactions (2/2)",
+		"date": "October 26, 2022 | 14:55-16.35 | Lecture",
+		"desc": "This lecture introduces the .",
+		"documents": [
+		],
+		"recordings": [
+		]
+	},
+
+	{
+		"type": "lecture",
+		"name": "MCMC and Generalized linear models (1/2)",
+		"date": "October 31, 2022 | 14:55-16.35 | Lecture",
+		"desc": "This lecture introduces the .",
+		"documents": [
+		],
+		"recordings": [
+		]
+	},
+
+	{
+		"type": "lecture",
+		"name": "MCMC and Generalized linear models (2/2)",
+		"date": "November 07, 2022 | 14:55-16.35 | Lecture",
+		"desc": "This lecture introduces the .",
+		"documents": [
+		],
+		"recordings": [
+		]
+	},
+
+	{
+		"type": "lecture",
+		"name": "Regression and mixtures (1/2)",
+		"date": "November 09, 2022 | 14:55-16.35 | Lecture",
+		"desc": "This lecture introduces the .",
+		"documents": [
+		],
+		"recordings": [
+		]
+	},
+
+	{
+		"type": "lecture",
+		"name": "Regression and mixtures (2/2)",
+		"date": "November 14, 2022 | 14:55-16.35 | Lecture",
+		"desc": "This lecture introduces the .",
+		"documents": [
+		],
+		"recordings": [
+		]
+	},
+
+	{
+		"type": "lecture",
+		"name": "Multilevel models I (1/2)",
+		"date": "November 16, 2022 | 14:55-16.35 | Lecture",
+		"desc": "This lecture introduces the .",
+		"documents": [
+		],
+		"recordings": [
+		]
+	},
+
+	{
+		"type": "lecture",
+		"name": "Multilevel models I (2/2)",
+		"date": "November 21, 2022 | 14:55-16.35 | Lecture",
+		"desc": "This lecture introduces the .",
+		"documents": [
+		],
+		"recordings": [
+		]
+	},
+
+	{
+		"type": "lecture",
+		"name": "Multilevel models II (1/2)",
+		"date": "November 23, 2022 | 14:55-16.35 | Lecture",
+		"desc": "This lecture introduces the .",
+		"documents": [
+		],
+		"recordings": [
+		]
+	},
+
+	{
+		"type": "lecture",
+		"name": "Multilevel models II (2/2)",
+		"date": "November 28, 2022 | 14:55-16.35 | Lecture",
+		"desc": "This lecture introduces the .",
+		"documents": [
+		],
+		"recordings": [
+		]
+	},
+
+
+	{
+		"type": "lecture",
+		"name": "Measurements and missingness (1/2)",
+		"date": "November 30, 2022 | 14:55-16.35 | Lecture",
+		"desc": "This lecture introduces the .",
+		"documents": [
+		],
+		"recordings": [
+		]
+	},
+
+	{
+		"type": "lecture",
+		"name": "Measurements and missingness (2/2)",
+		"date": "December 05, 2022 | 14:55-16.35 | Lecture",
+		"desc": "This lecture introduces the .",
+		"documents": [
+		],
+		"recordings": [
+		]
+	},
+
+
+	{
+		"type": "lecture",
+		"name": "Beyond generalized linear models",
+		"date": "December 07, 2022 | 14:55-16.35 | Lecture",
+		"desc": "This lecture introduces the .",
+		"documents": [
+		],
+		"recordings": [
+		]
+	},
+
+	{
+		"type": "lecture",
+		"name": "Test II",
+		"date": "December 12, 2022 | 14:55-16.35 | Lecture",
+		"desc": "This lecture introduces the .",
+		"documents": [
+		],
+		"recordings": [
+		]
+	}
+]
