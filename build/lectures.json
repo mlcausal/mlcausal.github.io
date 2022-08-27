@@ -43,7 +43,7 @@
 
 	{
 		"type": "lecture",
-		"name": "Potential outcomes (1/2)",
+		"name": "Machine learning: Paradigms",
 		"date": "August 29, 2022 | 14:55-16.35 | Lecture",
 		"desc": "This lecture introduces the .",
 		"documents": [
@@ -54,8 +54,30 @@
 
 	{
 		"type": "lecture",
-		"name": "Potential outcomes (2/2)",
+		"name": "Machine learning: Tasks",
 		"date": "August 31, 2022 | 14:55-16.35 | Lecture",
+		"desc": "This lecture introduces the .",
+		"documents": [
+		],
+		"recordings": [
+		]
+	},
+
+	{
+		"type": "lecture",
+		"name": "Potential outcomes (1/2)",
+		"date": "September 09, 2022 | 14:55-16.35 | Lecture",
+		"desc": "This lecture introduces the .",
+		"documents": [
+		],
+		"recordings": [
+		]
+	},
+
+	{
+		"type": "lecture",
+		"name": "Potential outcomes (2/2)",
+		"date": "September 12, 2022 | 14:55-16.35 | Lecture",
 		"desc": "This lecture introduces the .",
 		"documents": [
 		],
@@ -67,28 +89,6 @@
 	{
 		"type": "lecture",
 		"name": "The ladder of causation (1/2)",
-		"date": "September 09, 2022 | 14:55-16.35 | Lecture",
-		"desc": "This lecture introduces the .",
-		"documents": [
-		],
-		"recordings": [
-		]
-	},
-
-	{
-		"type": "lecture",
-		"name": "The ladder of causation (2/2)",
-		"date": "September 12, 2022 | 14:55-16.35 | Lecture",
-		"desc": "This lecture introduces the .",
-		"documents": [
-		],
-		"recordings": [
-		]
-	},
-
-	{
-		"type": "lecture",
-		"name": "Machine learning: Paradigms",
 		"date": "September 14, 2022 | 14:55-16.35 | Lecture",
 		"desc": "This lecture introduces the .",
 		"documents": [
@@ -99,7 +99,7 @@
 
 	{
 		"type": "lecture",
-		"name": "Machine learning: Tasks",
+		"name": "The ladder of causation (2/2)",
 		"date": "September 19, 2022 | 14:55-16.35 | Lecture",
 		"desc": "This lecture introduces the .",
 		"documents": [
